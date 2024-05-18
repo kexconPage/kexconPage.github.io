@@ -7,8 +7,15 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>This is a customized copyright.</copyright>
-    <lastBuildDate>Sat, 18 May 2024 20:54:43 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 01:00:40 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E5%90%83/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test_3</title>
+      <link>http://localhost:1313/posts/test_3/</link>
+      <pubDate>Sun, 19 May 2024 01:00:40 +0800</pubDate>
+      <guid>http://localhost:1313/posts/test_3/</guid>
+      <description>bb bbb</description>
+    </item>
     <item>
       <title>Test_2</title>
       <link>http://localhost:1313/posts/test_2/</link>
